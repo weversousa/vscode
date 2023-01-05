@@ -27,6 +27,9 @@ Configuração:
 # Uma única vez em uma máquina (Windows).
 ~$ Set-ExecutionPolicy Unrestricted -Force
 
+# Uma única vez em uma máquina.
+~$ pip install virtualenv
+
 # Criar um ambiente virtual para cada projeto.
 ~$ python -m venv .venv/
 
