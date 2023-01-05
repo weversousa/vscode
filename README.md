@@ -37,7 +37,7 @@ Configuração:
 ~$ source .venv/bin/activate
 
 # Instalar bibliotecas que facilitam o desenvolvimento em Python.
-~$ pip install --upgrade pip flake8 autopep8 mypy
+(.venv) ~$ pip install --upgrade pip flake8 autopep8 mypy
 ~~~
 
 ## Code Runner
